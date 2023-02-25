@@ -1,0 +1,15 @@
+C:\Users\Nijat\source\repos\testCs\testCs\bin\Debug\net6.0\testCs.exe
+C:\Users\Nijat\source\repos\testCs\testCs\bin\Debug\net6.0\testCs.deps.json
+C:\Users\Nijat\source\repos\testCs\testCs\bin\Debug\net6.0\testCs.runtimeconfig.json
+C:\Users\Nijat\source\repos\testCs\testCs\bin\Debug\net6.0\testCs.dll
+C:\Users\Nijat\source\repos\testCs\testCs\bin\Debug\net6.0\testCs.pdb
+C:\Users\Nijat\source\repos\testCs\testCs\obj\Debug\net6.0\testCs.csproj.AssemblyReference.cache
+C:\Users\Nijat\source\repos\testCs\testCs\obj\Debug\net6.0\testCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nijat\source\repos\testCs\testCs\obj\Debug\net6.0\testCs.AssemblyInfoInputs.cache
+C:\Users\Nijat\source\repos\testCs\testCs\obj\Debug\net6.0\testCs.AssemblyInfo.cs
+C:\Users\Nijat\source\repos\testCs\testCs\obj\Debug\net6.0\testCs.csproj.CoreCompileInputs.cache
+C:\Users\Nijat\source\repos\testCs\testCs\obj\Debug\net6.0\testCs.dll
+C:\Users\Nijat\source\repos\testCs\testCs\obj\Debug\net6.0\refint\testCs.dll
+C:\Users\Nijat\source\repos\testCs\testCs\obj\Debug\net6.0\testCs.pdb
+C:\Users\Nijat\source\repos\testCs\testCs\obj\Debug\net6.0\testCs.genruntimeconfig.cache
+C:\Users\Nijat\source\repos\testCs\testCs\obj\Debug\net6.0\ref\testCs.dll
